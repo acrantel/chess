@@ -1,1 +1,1 @@
-A basic chess program written in 2016. Very ugly and gross code.
+A basic chess program I wrote in 2016.
